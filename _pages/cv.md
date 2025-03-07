@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "简历"
+permalink: /简历/
 author_profile: true
 redirect_from:
   - /resume
@@ -23,7 +23,7 @@ redirect_from:
 
 ## 教育经历
 
-### 经济学 | 本科  
+### 经济学 | 雪城大学本科  
 **2020.09 - 2024.01**  
 **核心课程**：微观经济学、宏观经济学、教育经济学、新兴市场经济学、城市经济学、健康经济学等。
 
@@ -31,7 +31,7 @@ redirect_from:
 - 擅长 SWOT 分析评估政策影响，优化资源配置。
 - 具备经济建模与数据可视化能力，解析市场动态，挖掘趋势，助力商业与政策决策。
 
-### 应用分析 | 硕士  
+### 应用分析 | 哥伦比亚大学硕士  
 **2024.09 - 2025.12**  
 **核心课程**：应用分析框架、研究设计、数据分析、战略分析、数据管理。
 
@@ -71,7 +71,7 @@ redirect_from:
 
 ### 数据分析与建模 | Kaggle Click Prediction 竞赛  
 **2024.09 - 2024.11**  
-- 使用 Python（pandas、scikit-learn、XGBoost）进行数据预处理、特征工程和模型训练。
+- 使用 Python（pandas、scikit-learn、XGBoost）
 - 采用随机森林、线性回归、XGBoost 进行模型优化，最终进入班级前十。
 
 ### 物流优化与市场策略研究 | Shopee 供应链优化项目  
@@ -90,36 +90,3 @@ redirect_from:
 - **快速学习与技术应用**：掌握机器学习模型（随机森林、XGBoost）、SQL 查询优化、数据可视化技术，优化业务流程，提高决策精准度。
 
 ---
-
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
